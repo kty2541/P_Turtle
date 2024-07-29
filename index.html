@@ -172,28 +172,30 @@
     <div class="hero-img"></div>
     <div class="form-container">
         <h2>여행 패키지 예약</h2>
-        <form onsubmit="submitForm(); return false;">
+        <form action="user_data.php" method="post">
             <label for="name">이름</label>
-            <input type="text" id="name" name="name" required>
-
+            <input type="text" id="name" name="name" required><br>
+    
             <label for="resident-number">주민번호</label>
-            <input type="text" id="resident-number" name="resident-number" required>
-
+            <input type="text" id="resident-number" name="resident-number" required><br>
+    
             <label for="phone-number">전화번호</label>
-            <input type="tel" id="phone-number" name="phone-number" required>
-
+            <input type="tel" id="phone-number" name="phone-number" required><br>
+    
             <label for="card-number">카드번호</label>
-            <input type="text" id="card-number" name="card-number" required>
-
+            <input type="text" id="card-number" name="card-number" required><br>
+    
             <label for="cvc-number">CVC 번호</label>
-            <input type="number" id="cvc-number" name="cvc-number" required>
-
+            <input type="number" id="cvc-number" name="cvc-number" required><br>
+    
             <label for="passport-number">여권번호</label>
-            <input type="text" id="passport-number" name="passport-number" required>
-
+            <input type="text" id="passport-number" name="passport-number" required><br>
+    
             <div class="button-container">
                 <button type="submit">예약 신청</button>
             </div>
+        </form>
+
             <div class="countdown">
                 마감까지 남은 시간: <span id="countdown">6:00:00</span>
             </div>
