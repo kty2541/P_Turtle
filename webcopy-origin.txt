@@ -1,0 +1,336 @@
+Uri: http://turtle-bank.com/
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\index.htm
+Content Type: text/html
+
+Uri: http://turtle-bank.com/css/mypopup.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\css\mypopup.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/css/style.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\css\style.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/img/apple-touch-icon.png
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: http://turtle-bank.com/img/cta-bg.jpg
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\img\cta-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://turtle-bank.com/img/favicon.png
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\img\favicon.png
+Content Type: image/png
+
+Uri: http://turtle-bank.com/img/logo.png
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\img\logo.png
+Content Type: image/png
+
+Uri: http://turtle-bank.com/js/main.js
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\js\main.js
+Content Type: application/javascript
+
+Uri: http://turtle-bank.com/notice/deleteBoard?id=1
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\deleteBoard-4.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/deleteBoard?id=2
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\deleteBoard-3.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/deleteBoard?id=3
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\deleteBoard-2.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/deleteBoard?id=4
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\deleteBoard-1.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/deleteBoard?id=9
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\deleteBoard.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/download?filename=TURTLEBANK.apk
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\TURTLEBANK.apk
+Content Type: application/vnd.android.package-archive
+
+Uri: http://turtle-bank.com/notice/download?filename=UpdateFile.zip
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\UpdateFile.zip
+Content Type: application/zip
+
+Uri: http://turtle-bank.com/notice/editBoard?id=1
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\editBoard-4.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/editBoard?id=2
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\editBoard-3.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/editBoard?id=3
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\editBoard-2.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/editBoard?id=4
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\editBoard-1.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/editBoard?id=9
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\editBoard.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/getBoard?id=1
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\getBoard-4.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/getBoard?id=2
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\getBoard-3.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/getBoard?id=3
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\getBoard-2.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/getBoard?id=4
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\getBoard-1.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/getBoard?id=9
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\getBoard.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/notice/viewBoard
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\notice\viewBoard.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/qna/viewBoard
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\qna\viewBoard.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/user/findPass
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\user\findPass.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/user/login
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\user\login.html
+Content Type: text/html
+
+Uri: http://turtle-bank.com/vendor/aos/aos.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\aos\aos.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/vendor/aos/aos.js
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\aos\aos.js
+Content Type: application/javascript
+
+Uri: http://turtle-bank.com/vendor/bootstrap-icons/bootstrap-icons.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\bootstrap-icons\bootstrap-icons.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\bootstrap-icons\fonts\bootstrap-icons.woff2
+Content Type: application/font-woff2
+
+Uri: http://turtle-bank.com/vendor/bootstrap-icons/fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\bootstrap-icons\fonts\bootstrap-icons.woff
+Content Type: application/font-woff
+
+Uri: http://turtle-bank.com/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://turtle-bank.com/vendor/boxicons/css/boxicons.min.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\boxicons\css\boxicons.min.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/vendor/boxicons/fonts/boxicons.eot
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\boxicons\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://turtle-bank.com/vendor/boxicons/fonts/boxicons.svg?
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\boxicons\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: http://turtle-bank.com/vendor/boxicons/fonts/boxicons.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\boxicons\fonts\boxicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://turtle-bank.com/vendor/boxicons/fonts/boxicons.woff
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\boxicons\fonts\boxicons.woff
+Content Type: application/font-woff
+
+Uri: http://turtle-bank.com/vendor/boxicons/fonts/boxicons.woff2
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\boxicons\fonts\boxicons.woff2
+Content Type: application/font-woff2
+
+Uri: http://turtle-bank.com/vendor/glightbox/css/glightbox.min.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\glightbox\css\glightbox.min.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/vendor/glightbox/js/glightbox.min.js
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\glightbox\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: http://turtle-bank.com/vendor/isotope-layout/isotope.pkgd.min.js
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\isotope-layout\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://turtle-bank.com/vendor/remixicon/remixicon.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\remixicon\remixicon.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/vendor/remixicon/remixicon.eot?t=1590207869815
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\remixicon\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://turtle-bank.com/vendor/remixicon/remixicon.svg?t=1590207869815
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\remixicon\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: http://turtle-bank.com/vendor/remixicon/remixicon.ttf?t=1590207869815
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\remixicon\remixicon.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://turtle-bank.com/vendor/remixicon/remixicon.woff2?t=1590207869815
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\remixicon\remixicon.woff2
+Content Type: application/font-woff2
+
+Uri: http://turtle-bank.com/vendor/remixicon/remixicon.woff?t=1590207869815
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\remixicon\remixicon.woff
+Content Type: application/font-woff
+
+Uri: http://turtle-bank.com/vendor/swiper/swiper-bundle.min.css
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: http://turtle-bank.com/vendor/swiper/swiper-bundle.min.js
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\swiper\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: http://turtle-bank.com/vendor/waypoints/noframework.waypoints.js
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\vendor\waypoints\noframework.waypoints.js
+Content Type: application/javascript
+
+Uri: http://turtle-bank.com/watchVideo?url=https://github.com/BreakTheShield/Bank-WEB/blob/master/README.md
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\watchVideo.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZgoCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZjMCBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZrMFBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZt8FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zJtBhPNqw73oHH7BbQp4-B6XlrZu0FBIokmw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mx9IjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mxEIjVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\r2com\Desktop\FinalProject\모의해킹 시나리오3\미러링\turtle-bank.com\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+

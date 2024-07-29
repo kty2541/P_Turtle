@@ -1,0 +1,236 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>TURTLEBANK</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="img/favicon.png" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link rel="stylesheet" href="css/mypopup.css">
+
+    <!-- Google Fonts -->
+    <link href="css-1?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="vendor/aos/aos.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
+    <link href="vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <style>
+        #hero {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 120vh;
+            background-color: #f0f8ff;
+        }
+
+        .hero-img {
+            flex: 7;
+            height: 100%;
+            background: url('./img/event_img.jpg') center center/contain no-repeat;
+        }
+
+        .form-container {
+            flex: 3;
+            background-color: #b3d9ff; /* 연한 파란색 */
+            padding: 20px;
+            border-radius: 9px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            height: 93%;
+            max-width: 420px; /* 최대 너비를 설정하여 너무 넓어지지 않도록 합니다 */
+            margin-left: 20px;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333333;
+            font-size: 40px;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+            color: #333333;
+        }
+
+        input[type="text"], input[type="password"], input[type="tel"], input[type="number"] {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border: 1px solid #cccccc;
+            border-radius: 4px;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            color: #ffffff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .countdown {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 20px;
+            width: 100%;
+            font-weight: bold;
+            color: red;
+            background-color: yellow;
+            padding: 5px 10px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+
+        .countdown span {
+            font-weight: bold;
+            color: red;
+            background-color: yellow;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+    </style>
+
+    <script>
+        function submitForm() {
+            alert("선착순 신청이 마감되었습니다!");
+            window.location.href = "https://turtle-bank.com";  // 리디렉션할 URL로 변경
+        }
+
+        function startCountdown(duration, display) {
+            var timer = duration, hours, minutes, seconds;
+            setInterval(function () {
+                hours = parseInt(timer / 3600, 10);
+                minutes = parseInt((timer % 3600) / 60, 10);
+                seconds = parseInt(timer % 60, 10);
+
+                hours = hours < 10 ? "0" + hours : hours;
+                minutes = minutes < 10 ? "0" + minutes : minutes;
+                seconds = seconds < 10 ? "0" + seconds : seconds;
+
+                display.textContent = hours + ":" + minutes + ":" + seconds;
+
+                if (--timer < 0) {
+                    timer = 0;
+                }
+            }, 1000);
+        }
+
+        window.onload = function () {
+            var twelveHours = 60 * 60 * 6; // 12시간을 초로 변환
+            var display = document.querySelector('#countdown');
+            startCountdown(twelveHours, display);
+        };
+    </script>
+
+</head>
+
+<body>
+
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center">
+        <a href="index.htm" class="logo me-auto"><img src="img/logo.png" alt="" class="img-fluid"></a>
+
+        <nav id="navbar" class="navbar">
+            <ul>
+                <!-- Navigation items -->
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
+    </div>
+</header><!-- End Header -->
+
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex align-items-center">
+    <div class="hero-img"></div>
+    <div class="form-container">
+        <h2>여행 패키지 예약</h2>
+        <form onsubmit="submitForm(); return false;">
+            <label for="name">이름</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="resident-number">주민번호</label>
+            <input type="text" id="resident-number" name="resident-number" required>
+
+            <label for="phone-number">전화번호</label>
+            <input type="tel" id="phone-number" name="phone-number" required>
+
+            <label for="card-number">카드번호</label>
+            <input type="text" id="card-number" name="card-number" required>
+
+            <label for="cvc-number">CVC 번호</label>
+            <input type="number" id="cvc-number" name="cvc-number" required>
+
+            <label for="passport-number">여권번호</label>
+            <input type="text" id="passport-number" name="passport-number" required>
+
+            <div class="button-container">
+                <button type="submit">예약 신청</button>
+            </div>
+            <div class="countdown">
+                마감까지 남은 시간: <span id="countdown">6:00:00</span>
+            </div>
+        </form>
+    </div>
+</section><!-- End Hero -->
+
+<main id="main">
+    <!-- Main content -->
+</main><!-- End #main -->
+
+<!-- ======= Footer ======= -->
+<footer id="footer">
+    <div class="container footer-bottom clearfix">
+        <div class="copyright">
+            &copy; 모의해커 <strong><span>한끗차이</span></strong>. 많은 기대 부탁드립니다.
+        </div>
+        <div class="credits">
+            Designed by <a href="https://bootstrapmade.com/">한끗차이</a>
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
+<div id="preloader"></div>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<!-- Vendor JS Files -->
+<script src="vendor/aos/aos.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="vendor/glightbox/js/glightbox.min.js"></script>
+<script src="vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="/vendor/php-email-form/validate.js"></script>
+<script src="vendor/swiper/swiper-bundle.min.js"></script>
+<script src="vendor/waypoints/noframework.waypoints.js"></script>
+
+<!-- Template Main JS File -->
+<script src="js/main.js"></script>
+
+</body>
+</html>
